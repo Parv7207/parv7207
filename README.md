@@ -19,7 +19,7 @@
 
 ```ts
 const parv = {
-  title: "Frontend Developer",
+  title: "Backend Developer",
   stack: ["Java", "C", "HTML", "CSS"],
   launchedProjects: [],
   certifications: [],
