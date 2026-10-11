@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Parv%20Agarwal&fontSize=50&fontAlignY=35&animation=twinkling&color=0:7dd3fc,100:0ea5e9&desc=Frontend%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Parv%20Agarwal&fontSize=50&fontAlignY=35&animation=twinkling&color=0:7dd3fc,100:0ea5e9&desc=Backend%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Frontend+Developer;Java+%7C+C+%7C+HTML+%7C+CSS;Building+my+web+development+skills" alt="Typing SVG" />
@@ -37,7 +37,7 @@ const parv = {
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css&theme=light" alt="HTML and CSS"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=light" alt="HTML,CSS and JAVASCRIPT"/>
 </p>
 
 ## 📊 GitHub Stats
